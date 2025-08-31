@@ -13,7 +13,7 @@ https://ov.ottera.tv/channels/alt_rom/master2300000.m3u8;session=alt_rom
 https://ov.ottera.tv/channels/alt_crime/master2300000.m3u8;session=alt_crime
 
 #EXTINF:-1 tvg-id="Afrokiddos.za" tvg-logo="" group-title="Entertainment",Afrokiddos
-https://alt-ak-freevision.otteravision.com/alt/ak/ak_720p.m3u8
+https://stream.ads.ottera.tv/cl/250830d2pd46p4dks76bc5o5bg/1280x720_1400000_1_f.m3u8?i=475_1932
 
 #EXTINF:-1 tvg-id="Afroland Drama" tvg-logo="" group-title="Entertainment",Afroland Drama
 https://ov.ottera.tv/channels/alt_drama/master2300000.m3u8;session=alt_drama
