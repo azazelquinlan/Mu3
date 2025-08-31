@@ -44,14 +44,5 @@ https://ov.ottera.tv/channels/alt_nolly/master2300000.m3u8;session=alt_nolly
 #EXTINF:-1 tvg-id="AfrolandTV.za"tvg-logo="" group-title="Entertainment;RSA",Afroland TV
 https://alt-al-freevision.otteravision.com/alt/al/al_1080p.m3u8
 
-#EXTINF:-1 tvg-id="JitTV.za" tvg-logo="https://ibb.co/nznrXNy" group-title="Entertainment;RSA;",Jit TV
-https://senth3ta.cdn.mangomolo.com/jt/smil:jittv.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="News1.za" tvg-logo="" group-title="News;RSA",News 1
-https://cdn.freevisiontv.co.za/bgnews/smil:bgsrt.stream.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="MpumaKapaTV.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66d82aff28.png" group-title="Entertainment;RSA",Mpuma Kapa TV
 https://senth3ta.cdn.mangomolo.com/mk/smil:mktv.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Sport1.za"tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/66fba2e9d9.png" group-title="Sport;RSA",Sport 1
-https://senth3ta.cdn.mangomolo.com/bgsp/smil:bgsport.stream.smil/chunklist.m3u8
